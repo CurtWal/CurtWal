@@ -1,32 +1,14 @@
 
-<!DOCTYPE html>
-<html>
-
-<head>
-  <style>
-    body {
-      background-image: url('./assets/bg.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      color: black;
-      text-align: center;
-    }
-  </style>
-</head>
-
-<body>
-
+![Banner](./assets/banner.jpg)
 ### Hi there 👋🏽
 
 ## My Name Curtrick Walton
-
 #### A little bit about myself, im a coding graduate from a coding bootcamp back in 2023 named CodeCrew.
 #### I like to work on all types of programming projects from big ones to small ones.
 #### Currently im learning python in my free time.
 #### And im open to looking for work to utilize my current skills and to further improve them.
 
-<img src='./assets/anime.gif'>
+![AnimeGif](./assets/anime.gif)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScrict](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,12 +23,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<a href='www.linkedin.com/in/curtrick-walton-553b4925a'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=''><img src=''></a> <a href='https://curtrick-portfolio.netlify.app/'>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href='www.linkedin.com/in/curtrick-walton-553b4925a'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </a> <a href='https://curtrick-portfolio.netlify.app/'>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
-
-</body>
-
-</html>
 
 
 
