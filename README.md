@@ -2,7 +2,7 @@
 ![Banner](./assets/banner.jpg)
 ### Hi there 👋🏽
 
-## My Name Curtrick Walton
+## My Name is Curtrick Walton
 #### A little bit about myself, im a coding graduate from a coding bootcamp back in 2023 named CodeCrew.
 #### I like to work on all types of programming projects from big ones to small ones.
 #### Currently im learning python in my free time.
